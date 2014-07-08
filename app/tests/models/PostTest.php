@@ -73,4 +73,5 @@ class PostTest extends TestCase {
 	  // Save the Post
 	  $this->assertTrue($post->save());
 	}
+
 } 
